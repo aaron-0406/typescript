@@ -1,0 +1,9 @@
+ENGINEERING PRACTICES:
+----------------------
+
+LAYERS OF ANALYSIS TO DELIVER CODE:
+
+- Static analysis runs in your editor. Finds typos, incorrect function calls, autocompletes code.
+- Unit tests take a few seconds to verify your code does what you think it does.
+- Integration tests take a few minutes to validate your system works. May catch fun edge cases.
+- Code review takes a few hours to validate you're following standard norms and practices of your team.
