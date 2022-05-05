@@ -1,0 +1,6 @@
+- INSTALL TYPESCRIPT
+- npm install typescript -D
+
+
+- CHECK TYPESCRIPT VERSION
+- npx tsc --version
