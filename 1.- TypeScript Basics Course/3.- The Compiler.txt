@@ -1,0 +1,20 @@
+THE COMPILER
+------------
+
+Transpile TS and generate JS.
+
+---------------------------------------
+
+TypeScript Code          ------>>>>      TypeScript file (*.ts) - (Clases, interface, modules, types)
+    |
+    v
+Compilation/Transpiling  ------>>>>      TypeScript Compiler (tsc) - (Target: ES3/ES5/ES6, etc)
+    |
+    v
+Vanilla JS Code          ------>>>>      JavaScript file (*.js) - Runs everywhere
+
+
+---------------------------------------
+
+
+* The browser only reads JavaScript files.
