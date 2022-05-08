@@ -1,0 +1,12 @@
+
+ALIASES AND LITERAL TYPES
+-------------------------
+
+type UserID = string | number;
+let user: UserID = 'hola';
+user = 12;
+
+type Sizes = 'S' | 'M' | 'L';
+let shirtSizes: Sizes;
+shirtSizes: 'S';
+shirtSizes: 'M';
