@@ -1,0 +1,7 @@
+
+const productPrice: number = 12;
+
+-> const = scope
+-> productPrice = statement
+-> number = typed o type annotation
+-> 12 = valor
