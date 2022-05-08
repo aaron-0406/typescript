@@ -1,0 +1,8 @@
+-> npx tsc --init
+-> Start with the tsconfig.json file
+
+-> npx tsc
+-> Compile files
+
+-> npx tsc --watch
+-> Compile files in real time
