@@ -1,0 +1,4 @@
+ARRAYS
+------
+
+let prices: (number | string | boolean)[];
