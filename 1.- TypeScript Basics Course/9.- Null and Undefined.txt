@@ -4,3 +4,5 @@ NULL AND UNDEFINED
 
 -> hello += name?.toLowerCase() || 'nobody';
 -> If name is null, then add 'nobody'.
+
+-> "Optional chaining"
